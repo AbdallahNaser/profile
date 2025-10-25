@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "type": "module",
-  "homepage": "https://abdallahnaser.github.io/my-portfolio",
+  "homepage": "https://abdallahnaser.github.io/profile",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
