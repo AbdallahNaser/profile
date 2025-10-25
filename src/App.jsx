@@ -48,7 +48,7 @@ const Portfolio = () => {
               animate={{ opacity: 1, x: 0 }}
               className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent"
             >
-              <a href='/'  initial={{ opacity: 0, x: -20 }}
+              <a href='/profile/'  initial={{ opacity: 0, x: -20 }}
               animate={{ opacity: 1, x: 0 }} className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent"> Abdallah Naser </a>
             </motion.div>
 
