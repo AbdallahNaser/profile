@@ -110,7 +110,7 @@ const Portfolio = () => {
       className=" flex justify-center mb-6 md:mb-0"
     >
       <img
-        src="/src/pro.jpg"
+        src="/profile/pro.jpg"
         alt="Profile"
         className="w-84 h-84 rounded-full object-cover mt-[90px] md:mt-0"
       />
